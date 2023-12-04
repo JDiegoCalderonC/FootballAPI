@@ -1,0 +1,38 @@
+		Premier League
+
+Manchester City
+Liverpool
+Arsenal
+Newcastle
+Chelsea
+Manchester United
+Tottenham
+
+		La Liga EASports
+
+Barcelona
+Real Madrid
+Atletico de Madrid
+Real Sociedad
+Girona
+
+		Serie A
+
+Napoli
+Inter
+Juventus
+Milan
+Roma
+
+		Bundesliga
+
+Bayern Munich
+Borusia
+Leipzig
+Leverkusen
+
+		Ligue 1
+
+PSG
+Mónaco
+Niza
